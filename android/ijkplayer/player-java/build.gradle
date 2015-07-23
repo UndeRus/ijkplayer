@@ -23,4 +23,4 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 
-apply from: '../tools/gradle-mvn-push.gradle'
+//apply from: '../tools/gradle-mvn-push.gradle'
